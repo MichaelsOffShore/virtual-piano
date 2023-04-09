@@ -1,0 +1,71 @@
+-Instructions- 
+
+ 
+
+Please open the project in a text editor/ide of your choice. 
+
+After doing so, open the terminal for the current code directory and run the following command: 
+
+“npm install;npm start” 
+
+The application should open up in a browser windows after a few seconds! 
+
+ 
+
+Features- 
+
+A piano keyboard with sounds that can be changed using the sound change button 
+
+Drum pads for percussion located on the right-hand side 
+
+Keyboard mapping  
+
+Piano Sound: Keyboard Mapping: 
+
+C - ”A” 
+
+C# - “Y” 
+
+D - “S” 
+
+D# - “U” 
+
+E - “D” 
+
+F - “F” 
+
+F# - “I” 
+
+G - “G” 
+
+G# - “O” 
+
+A - “H” 
+
+Bb - “P” 
+
+B - “J” 
+
+Drumpad 1 – Num 1 
+
+Drumpad 2 – Num 2  
+
+Drumpad 3 - Num 3 
+
+Drumpad 4 - Num 4 
+
+Drumpad 5 - Num 5 
+
+Drumpad 6 - Num 6 
+
+Recording Functionality 
+
+Distortion and Autofilter effects 
+
+Piano Screen 
+
+Octave changing (min = 0, max = 8) 
+
+ 
+
+ 
